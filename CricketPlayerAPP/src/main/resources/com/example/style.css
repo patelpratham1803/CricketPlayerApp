@@ -1,0 +1,32 @@
+
+.root {
+    -fx-font-family: "Arial";
+    -fx-background-color: #f0f0f0;
+}
+
+.label {
+    -fx-text-fill: #2a9d8f;
+    -fx-font-size: 40px;
+
+}
+
+.list-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #2a9d8f;
+    -fx-border-width: 2px;
+}
+
+.button {
+    -fx-background-color: rgb(255,50,120);
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+#playerListView{
+
+    -fx-background-color: rgb(255,56,120);
+    -fx-font: 20;
+
+
+}
